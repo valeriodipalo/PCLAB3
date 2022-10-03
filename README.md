@@ -4,7 +4,7 @@
 
 ### Virtual environment
 
-![Follow this link to create a virtual environment with tensorflow on M1](https://www.youtube.com/watch?v=5DgWvU0p2bk)
+[Follow this link to create a virtual environment with tensorflow on M1](https://www.youtube.com/watch?v=5DgWvU0p2bk)
 
 ## Windows 
 
