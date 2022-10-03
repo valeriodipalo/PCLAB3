@@ -22,7 +22,7 @@ To activate the virtual environment
 .\venv\Scripts\activate
 ```
 
-## Install requirements
+### Install requirements
 
 ```
 pip install -r requirements.txt
