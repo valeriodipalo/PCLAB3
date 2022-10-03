@@ -1,14 +1,14 @@
-### Installation
+# Installation
 
 ## macOS - M1
 
-# Virtual environment
+### Virtual environment
 
 ![Follow this link to create a virtual environment with tensorflow on M1](https://www.youtube.com/watch?v=5DgWvU0p2bk)
 
 ## Windows 
 
-# Virtual environment
+### Virtual environment
 
 Create the virtual environment as follows (replace the python version if needed)
 
